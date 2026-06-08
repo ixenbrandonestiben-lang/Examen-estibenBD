@@ -28,6 +28,7 @@ cliente:
 ----
 
 pago:
+
 - Registramos los campos para tener conocimiento sonbre la forma de pago de el cliente.
 ![forma dos](img/image-3.png)
 ----
